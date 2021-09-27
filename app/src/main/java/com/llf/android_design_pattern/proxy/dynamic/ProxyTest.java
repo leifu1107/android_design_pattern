@@ -12,7 +12,7 @@ public class ProxyTest {
         Play proxy = (Play) actorProxy.getDynamicProxy();
         //调用代理类相关方法
         proxy.show();
-        proxy.sing(3);
+        proxy.sing(10);
     }
 }
 

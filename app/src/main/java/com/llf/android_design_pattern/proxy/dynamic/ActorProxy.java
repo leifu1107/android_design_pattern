@@ -25,10 +25,10 @@ public class ActorProxy implements InvocationHandler {
         //处理被代理对象的方法实现
         if ("show".equals(method.getName())) {
             System.out.println("代理处理show....");
-            return method.invoke(player, null);
+            return method.invoke(player, args);
         } else if ("sing".equals(method.getName())) {
             System.out.println("代理处理sing....");
-            return method.invoke(player, 2);
+            return method.invoke(player, args);
         }
         return null;
     }
