@@ -1,9 +1,10 @@
 # android_design_pattern
 23种设计模式
 
-Java 语言设计模式的实例代码
-
 开发软件Android Studio
+
+- [java语言设计-23种设计模式总览](https://juejin.cn/post/7011058617554042911)
+
 
 ## 创建型模式
 
@@ -36,3 +37,11 @@ Java 语言设计模式的实例代码
 * [解释器模式（Interpreter）](https://juejin.cn/post/7012516764722397215)
 * [职责链模式（Chain of Responsibility）](https://juejin.cn/post/7012486274439184420)
 * [访问者模式（Visitor）](https://juejin.cn/post/7012893654075310094)
+
+## About me
+-  **QQ：** 844023833
+-  **掘金：**[https://juejin.cn/user/1574156384087486/posts](https://juejin.cn/user/1574156384087486/posts)
+-  **CSDN：**[https://mp.csdn.net/mp_blog/manage/article](https://mp.csdn.net/mp_blog/manage/article)
+-  **Email：** 844023833@qq.com
+-  **微信二维码：**
+ <img width="150" height="150" src="app/screensshots/wechat.jpg"/>
